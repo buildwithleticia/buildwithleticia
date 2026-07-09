@@ -20,41 +20,61 @@ I enjoy building software, automating processes, and solving real-world problems
 
 ### Programming Languages
 
-- Java
 - C#
-- C++
+- Java
 - JavaScript
 - Python
+- C++
 - SQL
 - VBA
 
-### Backend
+### Software Development
+
+- Object-Oriented Programming (OOP)
+- REST APIs
+- Backend Development
+- Software Testing
+- JSON
+- XML
+
+### Backend & Frameworks
 
 - Node.js
 - Express.js
-- REST APIs
+- .NET
+- Windows Forms
+- WPF
 
-### Web Development
+### Frontend & Web
 
 - HTML
 - CSS
 
-### Databases
+### Databases & Data
 
 - MySQL
 - SQL Server
 - Databricks SQL
-
-### Microsoft Technologies
-
 - Power BI
+
+### Cloud & Microsoft Ecosystem
+
 - Power Apps
 - SharePoint
 - Workday
 - Botmaker
 
-### Tools
+### IoT & Embedded Systems
 
+- Arduino
+- C++
+- Wokwi
+
+### Development Tools
+
+- Visual Studio
+- Visual Studio Code
+- IntelliJ IDEA
 - Git
 - GitHub
 - Jira
