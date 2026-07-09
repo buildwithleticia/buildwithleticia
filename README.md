@@ -15,7 +15,6 @@ I enjoy building software, automating processes, and solving real-world problems
 -  Sorocaba, São Paulo, Brazil
 
 ---
-
 ## 💻 Technologies
 
 ### Programming Languages
@@ -28,15 +27,6 @@ I enjoy building software, automating processes, and solving real-world problems
 - SQL
 - VBA
 
-### Software Development
-
-- Object-Oriented Programming (OOP)
-- REST APIs
-- Backend Development
-- Software Testing
-- JSON
-- XML
-
 ### Backend & Frameworks
 
 - Node.js
@@ -45,7 +35,7 @@ I enjoy building software, automating processes, and solving real-world problems
 - Windows Forms
 - WPF
 
-### Frontend & Web
+### Web Development
 
 - HTML
 - CSS
@@ -57,10 +47,13 @@ I enjoy building software, automating processes, and solving real-world problems
 - Databricks SQL
 - Power BI
 
-### Cloud & Microsoft Ecosystem
+### Microsoft Technologies
 
 - Power Apps
 - SharePoint
+
+### Enterprise Platforms
+
 - Workday
 - Botmaker
 
@@ -68,7 +61,6 @@ I enjoy building software, automating processes, and solving real-world problems
 
 - Arduino
 - C++
-- Wokwi
 
 ### Development Tools
 
@@ -78,6 +70,7 @@ I enjoy building software, automating processes, and solving real-world problems
 - Git
 - GitHub
 - Jira
+- Wokwi
 
 ---
 
