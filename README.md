@@ -2,25 +2,27 @@
 
 I'm a Software Engineering student from Brazil and currently an IT Intern at Toyota Brazil.
 
-I enjoy building software, automating processes, and solving real-world problems through technology. I'm always looking for opportunities to learn new technologies and improve my skills as a software engineer.
+I enjoy building software, automating processes, and solving real-world problems through technology. I'm passionate about learning new technologies and continuously improving my software engineering skills.
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-- 💻 IT Intern at Toyota Brazil
-- Software Engineering Student
-- Currently learning Data Structures, Algorithms, Cloud Computing and Software Architecture
-- Interested in Software Engineering, AI, Backend Development and Data Engineering
-- Sorocaba, São Paulo - Brazil
+-  IT Intern at Toyota Brazil
+-  Software Engineering Student
+-  Currently learning Data Structures, Algorithms, Cloud Computing, and Software Architecture
+-  Interested in Software Engineering, Artificial Intelligence, Backend Development, and Data Engineering
+-  Sorocaba, São Paulo, Brazil
 
 ---
 
-## Technologies
+## 💻 Technologies
 
-### Languages
+### Programming Languages
 
 - Java
+- C#
+- C++
 - JavaScript
 - Python
 - SQL
@@ -30,6 +32,12 @@ I enjoy building software, automating processes, and solving real-world problems
 
 - Node.js
 - Express.js
+- REST APIs
+
+### Web Development
+
+- HTML
+- CSS
 
 ### Databases
 
@@ -53,9 +61,9 @@ I enjoy building software, automating processes, and solving real-world problems
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-I'm currently building my portfolio.
+I'm currently building my software engineering portfolio.
 
 Upcoming projects include:
 
@@ -68,18 +76,19 @@ Upcoming projects include:
 
 ---
 
-## Currently Working On
+## 📚 Currently Working On
 
 - Building my Software Engineering portfolio
-- Learning Data Structures and Algorithms
+- Strengthening my knowledge of Data Structures and Algorithms
 - Developing backend applications with Node.js
-- Exploring Cloud and AI technologies
+- Exploring Cloud Computing and Artificial Intelligence
+- Preparing for Software Engineering internship opportunities
 
 ---
 
-## Let's Connect
+## 🌎 Let's Connect
 
 - LinkedIn: www.linkedin.com/in/leticia-silva-ti-dev
-- Email: leticiapereirasilvaalbuquerque@gmail.com
+- Email: leticiapereirasilvaalbuquerque@gmail.com or leticiapereirasilva.rj@gmail.com
 
-Thanks for stopping by! 😊
+Thanks for stopping by! Feel free to explore my repositories and connect with me. 
